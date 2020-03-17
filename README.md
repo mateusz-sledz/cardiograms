@@ -15,6 +15,7 @@ Wśród naszych danych liczba płodów w poszczególnych grupach przedstawia si�
 
 
 Las losowy 
+
 Parametry zostały dobrane metodą random search z walidacją k-krzyżową. Lista strojonych parametrów:
 - n_estimators
 - max_features
@@ -24,6 +25,7 @@ Parametry zostały dobrane metodą random search z walidacją k-krzyżową. List
 
 
 Regresja logistyczna
+
 Parametry zostały dobrane metodą grid search z walidacją k-krzyżową. Lista strojonych parametrów:
 - parametr C
 - solver
