@@ -14,7 +14,7 @@ Wśród naszych danych liczba płodów w poszczególnych grupach przedstawia si�
 - 176 w grupie „pathologic” (8,3%)
 
 
-Las losowy
+Las losowy 
 Parametry zostały dobrane metodą random search z walidacją k-krzyżową. Lista strojonych parametrów:
 - n_estimators
 - max_features
